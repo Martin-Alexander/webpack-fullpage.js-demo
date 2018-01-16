@@ -1,5 +1,7 @@
 To run:
 
-```bash yarn && webpack```
+```bash
+yarn && webpack
+```
 
 Then open `index.html`
