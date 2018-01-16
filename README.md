@@ -1,7 +1,8 @@
 To run:
 
 ```bash
-yarn && webpack
+yarn add fullpage.js
+webpack
 ```
 
 Then open `index.html`
